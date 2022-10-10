@@ -1,0 +1,30 @@
+D:\!CDA nice\C#\Algo en C#\S.Algo 01. ageU\Algo01. ageU\bin\Debug\net6.0\Algo exos 01-07. ageU.exe
+D:\!CDA nice\C#\Algo en C#\S.Algo 01. ageU\Algo01. ageU\bin\Debug\net6.0\Algo exos 01-07. ageU.deps.json
+D:\!CDA nice\C#\Algo en C#\S.Algo 01. ageU\Algo01. ageU\bin\Debug\net6.0\Algo exos 01-07. ageU.runtimeconfig.json
+D:\!CDA nice\C#\Algo en C#\S.Algo 01. ageU\Algo01. ageU\bin\Debug\net6.0\Algo exos 01-07. ageU.dll
+D:\!CDA nice\C#\Algo en C#\S.Algo 01. ageU\Algo01. ageU\bin\Debug\net6.0\Algo exos 01-07. ageU.pdb
+D:\!CDA nice\C#\Algo en C#\S.Algo 01. ageU\Algo01. ageU\obj\Debug\net6.0\Algo exos 01-07. ageU.csproj.AssemblyReference.cache
+D:\!CDA nice\C#\Algo en C#\S.Algo 01. ageU\Algo01. ageU\obj\Debug\net6.0\Algo exos 01-07. ageU.GeneratedMSBuildEditorConfig.editorconfig
+D:\!CDA nice\C#\Algo en C#\S.Algo 01. ageU\Algo01. ageU\obj\Debug\net6.0\Algo exos 01-07. ageU.AssemblyInfoInputs.cache
+D:\!CDA nice\C#\Algo en C#\S.Algo 01. ageU\Algo01. ageU\obj\Debug\net6.0\Algo exos 01-07. ageU.AssemblyInfo.cs
+D:\!CDA nice\C#\Algo en C#\S.Algo 01. ageU\Algo01. ageU\obj\Debug\net6.0\Algo exos 01-07. ageU.csproj.CoreCompileInputs.cache
+D:\!CDA nice\C#\Algo en C#\S.Algo 01. ageU\Algo01. ageU\obj\Debug\net6.0\Algo exos 01-07. ageU.dll
+D:\!CDA nice\C#\Algo en C#\S.Algo 01. ageU\Algo01. ageU\obj\Debug\net6.0\refint\Algo exos 01-07. ageU.dll
+D:\!CDA nice\C#\Algo en C#\S.Algo 01. ageU\Algo01. ageU\obj\Debug\net6.0\Algo exos 01-07. ageU.pdb
+D:\!CDA nice\C#\Algo en C#\S.Algo 01. ageU\Algo01. ageU\obj\Debug\net6.0\Algo exos 01-07. ageU.genruntimeconfig.cache
+D:\!CDA nice\C#\Algo en C#\S.Algo 01. ageU\Algo01. ageU\obj\Debug\net6.0\ref\Algo exos 01-07. ageU.dll
+D:\!CDA nice\C#\Algo en C#\S.Algo 01 - 07\Algo01. ageU\bin\Debug\net6.0\Algo exos 01-07. ageU.exe
+D:\!CDA nice\C#\Algo en C#\S.Algo 01 - 07\Algo01. ageU\bin\Debug\net6.0\Algo exos 01-07. ageU.deps.json
+D:\!CDA nice\C#\Algo en C#\S.Algo 01 - 07\Algo01. ageU\bin\Debug\net6.0\Algo exos 01-07. ageU.runtimeconfig.json
+D:\!CDA nice\C#\Algo en C#\S.Algo 01 - 07\Algo01. ageU\bin\Debug\net6.0\Algo exos 01-07. ageU.dll
+D:\!CDA nice\C#\Algo en C#\S.Algo 01 - 07\Algo01. ageU\bin\Debug\net6.0\Algo exos 01-07. ageU.pdb
+D:\!CDA nice\C#\Algo en C#\S.Algo 01 - 07\Algo01. ageU\obj\Debug\net6.0\Algo exos 01-07. ageU.csproj.AssemblyReference.cache
+D:\!CDA nice\C#\Algo en C#\S.Algo 01 - 07\Algo01. ageU\obj\Debug\net6.0\Algo exos 01-07. ageU.GeneratedMSBuildEditorConfig.editorconfig
+D:\!CDA nice\C#\Algo en C#\S.Algo 01 - 07\Algo01. ageU\obj\Debug\net6.0\Algo exos 01-07. ageU.AssemblyInfoInputs.cache
+D:\!CDA nice\C#\Algo en C#\S.Algo 01 - 07\Algo01. ageU\obj\Debug\net6.0\Algo exos 01-07. ageU.AssemblyInfo.cs
+D:\!CDA nice\C#\Algo en C#\S.Algo 01 - 07\Algo01. ageU\obj\Debug\net6.0\Algo exos 01-07. ageU.csproj.CoreCompileInputs.cache
+D:\!CDA nice\C#\Algo en C#\S.Algo 01 - 07\Algo01. ageU\obj\Debug\net6.0\Algo exos 01-07. ageU.dll
+D:\!CDA nice\C#\Algo en C#\S.Algo 01 - 07\Algo01. ageU\obj\Debug\net6.0\refint\Algo exos 01-07. ageU.dll
+D:\!CDA nice\C#\Algo en C#\S.Algo 01 - 07\Algo01. ageU\obj\Debug\net6.0\Algo exos 01-07. ageU.pdb
+D:\!CDA nice\C#\Algo en C#\S.Algo 01 - 07\Algo01. ageU\obj\Debug\net6.0\Algo exos 01-07. ageU.genruntimeconfig.cache
+D:\!CDA nice\C#\Algo en C#\S.Algo 01 - 07\Algo01. ageU\obj\Debug\net6.0\ref\Algo exos 01-07. ageU.dll
